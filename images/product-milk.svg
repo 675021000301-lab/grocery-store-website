@@ -1,0 +1,7 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#F7F3E9"/>
+  <path d="M78 45 L122 45 L122 65 L132 80 L132 175 Q132 182 125 182 L75 182 Q68 182 68 175 L68 80 L78 65 Z" fill="#FFFFFF" stroke="#1B4B43" stroke-width="3"/>
+  <rect x="68" y="100" width="64" height="40" fill="#3F7A4F"/>
+  <text x="100" y="125" font-family="Georgia, serif" font-size="14" fill="#F7F3E9" text-anchor="middle">นมสด</text>
+  <rect x="78" y="45" width="44" height="10" fill="#E3A72B"/>
+</svg>

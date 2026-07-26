@@ -1,0 +1,8 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#F7F3E9"/>
+  <path d="M65 60 L135 60 L145 175 Q145 182 138 182 L62 182 Q55 182 55 175 Z" fill="#F2E8D5" stroke="#1B4B43" stroke-width="3"/>
+  <rect x="65" y="60" width="70" height="30" fill="#1B4B43"/>
+  <path d="M85 60 Q85 40 100 40 Q115 40 115 60" fill="none" stroke="#7A3B2E" stroke-width="5"/>
+  <text x="100" y="130" font-family="Georgia, serif" font-size="20" fill="#7A3B2E" text-anchor="middle">ข้าวสาร</text>
+  <circle cx="100" cy="150" r="6" fill="#E3A72B"/>
+</svg>
